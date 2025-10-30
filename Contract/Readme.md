@@ -42,5 +42,8 @@ To create a **trustworthy, tamper-proof, and transparent** digital voting system
    git clone https://github.com/yourusername/BlockSecure_Voting_System.git
    cd BlockSecure_Voting_System
 Contractaddress:0xBFFbfFe9d79e8A0BA02c3A231341634FF660d6D5
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/4320cee7-1dca-4146-ba51-20219ffd1d9c" />
+
+
                                      
                                       
